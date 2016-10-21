@@ -9,3 +9,7 @@ Git is free software.
 分支domyself
 
 分支管理策略dev
+
+
+
+测试stash
