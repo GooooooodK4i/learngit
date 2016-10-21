@@ -6,5 +6,4 @@ Git is free software.
 
 我的天姥爷！
 测试分支
-
-in the master
+分支domyself
